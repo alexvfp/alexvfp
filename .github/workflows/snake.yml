@@ -23,7 +23,8 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - uses: Platane/snk/svg-only@v3
+    - name: Generate Snake
+      uses: Platane/snk@v3
       with:
         github_user_name: alexvfp
         outputs: |
