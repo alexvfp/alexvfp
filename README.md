@@ -264,9 +264,8 @@
 </div>
 
 ----
-
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/alexvfp/alexvfp/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/alexvfp/alexvfp/blob/output/github-contribution-grid-snake.gif"
     alt="example" />
 </p>
 
