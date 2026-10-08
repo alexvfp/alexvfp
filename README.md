@@ -48,6 +48,7 @@
   </a>
 </p>
 
+<!--
 <h3 align="center">Frontend</h3>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
@@ -146,7 +147,7 @@
       alt="heroku"/> 
   </a> 
 </p>
-
+-->
 <h3 align="center">Testing</h3>
 <p align="center"> 
   <a href="https://www.selenium.dev" target="_blank"> 
