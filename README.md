@@ -34,6 +34,18 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/>
+  </a>
+  <a href="https://www.php.net" target="_blank">  
+    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
+      alt="php"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">  
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
+      alt="python"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -41,10 +53,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
   </a>
 </p>
 
