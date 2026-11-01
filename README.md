@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi, I'm Alexander Arauco<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer</h3>
+<h3 font-size="20" align="center">Backend developer</h3>
 
 
-- 🌱 I’m currently learning **new technologies.**
+- I’m currently learning **new technologies.**
 
-- 🤝 I’m looking for help with **Backend Design**
+- I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@alexvfp]((https://github.com/alexvfp))
+- All of my projects are available [@alexvfp]((https://github.com/alexvfp))
 
 ---
 
